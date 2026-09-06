@@ -1,68 +1,79 @@
-<!-- Header -->
+<!-- ========================= HEADER ========================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Hi%20👋,%20I'm%20Savant%20Rajput&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20Solution%20Architecture%20%E2%80%A2%20DSA%20in%20C%2B%2B&descAlignY=58&descSize=16&descColor=8b949e" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Hi%20👋,%20I'm%20Savant%20Rajput&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20Solution%20Architecture%20%E2%80%A2%20DSA%20in%20C%2B%2B&descAlignY=58&descSize=16&descColor=8b949e" />
+
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=savant0004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=savant0004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```bash
 $ whoami
-> Savant Rajput — Full Stack Developer | Backend & Cloud Enthusiast
+
+> Savant Rajput
+> Full Stack Developer | Backend | Cloud | Solution Architecture
 ```
 
 * 🔭 Currently working on **NagarDrishti — A Civic Social Project**
-* 🌱 Currently learning **DSA in C++** | Backend Engineering | Cloud Computing | Solution Architecture
-* 🏗️ Exploring **System Design, Scalable Systems & Real-Time Applications**
-* 👯 Looking to collaborate on **Open-source projects, backend systems, and full-stack applications**
-* 🤝 Looking for help with **Building scalable backend systems and improving system design skills**
+* 🌱 Currently learning **DSA in C++**, Backend Engineering, Cloud Computing & Solution Architecture
+* 🏗️ Focused on **System Design, Scalable Backend Systems & Real-Time Applications**
+* 💻 Building **full-stack applications and backend services**
+* 🧠 Strengthening my **problem-solving and algorithmic thinking**
+* ☁️ Exploring **Cloud Computing and Solution Architecture**
+* 🤝 Open to collaborating on **open-source projects, backend systems & full-stack applications**
 * 💬 Ask me about **C++, DSA, Node.js, Express.js, MongoDB, REST APIs & Backend Development**
-* 📫 How to reach me **[savantrajput84@gmail.com](mailto:savantrajput84@gmail.com)**
-* 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1vCG6ljHkYWm2T3jLVBRX_2aGmQlSpuLW/view?usp=drive_link)**
+* 📫 Reach me at **[savantrajput84@gmail.com](mailto:savantrajput84@gmail.com)**
+* 📄 Check out my **[Resume](https://drive.google.com/file/d/1vCG6ljHkYWm2T3jLVBRX_2aGmQlSpuLW/view?usp=drive_link)**
 * ⚡ Fun fact: **I enjoy turning ideas into working projects and solving coding problems.**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-**Frontend**
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-**Backend & Database**
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### 🗄️ Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-**Real-Time & Communication**
+### 🔄 Real-Time & Communication
 
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge\&logo=webrtc\&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socket.io\&logoColor=white)
 
-**Cloud & Architecture**
+### ☁️ Cloud & Architecture
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 `Cloud Computing` `Solution Architecture` `System Design` `Scalable Systems`
 
-**Tools**
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -70,7 +81,7 @@ $ whoami
 
 ---
 
-## 🧠 DSA & Problem Solving
+# 🧠 DSA & Problem Solving
 
 Currently strengthening my **Data Structures & Algorithms skills with C++**.
 
@@ -80,34 +91,35 @@ Currently strengthening my **Data Structures & Algorithms skills with C++**.
 * 🔹 Sliding Window
 * 🔹 Linked Lists
 * 🔹 Recursion
-* 🔹 Trees
-* 🔹 Graphs
 * 🔹 Sorting & Searching
 * 🔹 Algorithmic Problem Solving
 
 ---
 
-## 🗂️ Featured Projects
-
-| Project                                                       | Description                                                                                                                                                                   | Tech                         |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [🎥 **MeetSphere**](https://github.com/savant0004/MeetSphere) | Real-time video conferencing platform with video/audio calling, screen sharing, live chat, collaborative whiteboard, file sharing, meeting recording & participant management | MERN, WebRTC, Socket.IO, JWT |
-| [🏙️ **NagarDrishti**](https://github.com/savant0004)         | Civic social project focused on solving real-world community problems                                                                                                         | Node.js, Express.js, MongoDB |
-
-
----
-
-## 🎥 MeetSphere
+# 🗂️ Featured Projects
 
 <div align="center">
 
-### Real-Time Video Conferencing Platform
+| 🚀 Project                                                    | 📝 Description                                                                                                                                                                            | 🧰 Technologies                               |
+| :------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| 🎥 **[MeetSphere](https://github.com/savant0004/MeetSphere)** | Full-stack real-time video conferencing platform with video/audio calling, screen sharing, live chat, collaborative whiteboard, file sharing, meeting recording & participant management. | `MERN` `WebRTC` `Socket.IO` `JWT`             |
+| 🏙️ **NagarDrishti**                                          | Civic-focused full-stack project designed to address real-world community problems through technology.                                                                                    | `Node.js` `Express.js` `MongoDB` `JavaScript` |
 
 </div>
 
-MeetSphere is a **full-stack real-time video conferencing platform** built with the **MERN stack, WebRTC, and Socket.IO**.
+---
 
-**✨ Key Features**
+# 🎥 MeetSphere
+
+<div align="center">
+
+## Real-Time Video Conferencing Platform
+
+</div>
+
+**MeetSphere** is a full-stack real-time video conferencing platform built using the **MERN stack, WebRTC and Socket.IO**.
+
+### ✨ Key Features
 
 * 🔐 Secure JWT Authentication
 * 🎥 HD Video & Audio Calling
@@ -118,49 +130,60 @@ MeetSphere is a **full-stack real-time video conferencing platform** built with 
 * 🎬 Meeting Recording
 * 👥 Participant Management
 
-**🧰 Technologies**
+### 🧰 Technologies
 
 `MongoDB` `Express.js` `React` `Node.js` `WebRTC` `Socket.IO` `JWT`
 
 <div align="center">
 
-👉 **[View MeetSphere on GitHub](https://github.com/savant0004/MeetSphere)**
+### 🔗 Project Links
+
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/savant0004/MeetSphere)
 
 </div>
 
 ---
 
-## 🏙️ NagarDrishti
+# 🏙️ NagarDrishti
 
-**Civic Social Project**
+<div align="center">
 
-NagarDrishti is a civic-focused project aimed at using technology to address **real-world community problems**.
+## Civic Social Project
+
+</div>
+
+**NagarDrishti** is a civic-focused project aimed at using technology to address **real-world community problems**.
 
 ### 🎯 Focus Areas
 
-* 🏙️ Civic engagement
-* 🤝 Community interaction
-* 📢 Local issue reporting
-* ⚙️ Backend engineering
-* 🗄️ Database design
-* 🌐 Full-stack development
- <div align="center">
+* 🏙️ Civic Engagement
+* 🤝 Community Interaction
+* 📢 Local Issue Reporting
+* ⚙️ Backend Engineering
+* 🗄️ Database Design
+* 🌐 Full-Stack Development
 
-👉 [View NagarDrishti](nagar-drishti.vercel.app)
-
-</div>
-
-**🧰 Technologies**
+### 🧰 Technologies
 
 `Node.js` `Express.js` `MongoDB` `JavaScript`
 
+<div align="center">
+
+### 🔗 Project Links
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-NagarDrishti-58a6ff?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nagar-drishti.vercel.app/)
+
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/savant0004)
+
+</div>
+
 ---
 
-## ☁️ Cloud & Solution Architecture
+# ☁️ Cloud & Solution Architecture
 
 I'm interested in designing and understanding **scalable, reliable and maintainable systems**.
 
-### Areas I'm Exploring
+### 🏗️ Areas I'm Exploring
 
 * ☁️ Cloud Computing
 * 🏗️ Solution Architecture
@@ -173,7 +196,20 @@ I'm interested in designing and understanding **scalable, reliable and maintaina
 
 ---
 
-## 🤝 Connect With Me
+# 📈 What I'm Currently Focusing On
+
+```text
+DSA & Problem Solving       ███████████████████░   Learning
+Backend Engineering         ███████████████████░   Building
+Full Stack Development      ████████████████████   Building
+Cloud Computing             ███████████████░░░░░   Exploring
+System Design               ███████████████░░░░░   Exploring
+Solution Architecture       ██████████████░░░░░░   Exploring
+```
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -187,7 +223,7 @@ I'm interested in designing and understanding **scalable, reliable and maintaina
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -205,7 +241,7 @@ I'm interested in designing and understanding **scalable, reliable and maintaina
 
 ---
 
-## 🏆 GitHub Profile Trophy
+# 🏆 GitHub Profile Trophy
 
 <div align="center">
 
@@ -217,7 +253,7 @@ I'm interested in designing and understanding **scalable, reliable and maintaina
 
 <div align="center">
 
-### 💡 Build • Learn • Solve • Repeat
+## 💡 Build • Learn • Solve • Repeat
 
 <br/>
 
@@ -228,6 +264,3 @@ I'm interested in designing and understanding **scalable, reliable and maintaina
 <code>console.log("Thanks for visiting! 🚀")</code>
 
 </div>
-```
-
-
