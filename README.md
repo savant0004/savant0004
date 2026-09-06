@@ -93,7 +93,7 @@ Currently strengthening my **Data Structures & Algorithms skills with C++**.
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
 | [🎥 **MeetSphere**](https://github.com/savant0004/MeetSphere) | Real-time video conferencing platform with video/audio calling, screen sharing, live chat, collaborative whiteboard, file sharing, meeting recording & participant management | MERN, WebRTC, Socket.IO, JWT |
 | [🏙️ **NagarDrishti**](https://github.com/savant0004)         | Civic social project focused on solving real-world community problems                                                                                                         | Node.js, Express.js, MongoDB |
-| [💻 **DSA Practice**](https://github.com/savant0004)          | Algorithm and problem-solving practice using C++                                                                                                                              | C++                          |
+
 
 ---
 
@@ -225,19 +225,4 @@ I'm interested in designing and understanding **scalable, reliable and maintaina
 </div>
 ```
 
-### One thing to change before pushing
 
-I put this temporarily:
-
-```markdown
-[💻 **DSA Practice**](https://github.com/savant0004)
-```
-
-**Remove that row unless you actually have a DSA repository.** I don't want your README claiming a project that doesn't exist.
-
-Your two real projects should be the focus:
-
-**🎥 MeetSphere** → your strongest technical project
-**🏙️ NagarDrishti** → your civic/real-world project
-
-Also, if you give me the **NagarDrishti GitHub repository link**, I can replace the placeholder link and write a much stronger project description based on its actual features.
