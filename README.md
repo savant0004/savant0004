@@ -144,6 +144,11 @@ NagarDrishti is a civic-focused project aimed at using technology to address **r
 * ⚙️ Backend engineering
 * 🗄️ Database design
 * 🌐 Full-stack development
+ <div align="center">
+
+👉 [View NagarDrishti](nagar-drishti.vercel.app)
+
+</div>
 
 **🧰 Technologies**
 
